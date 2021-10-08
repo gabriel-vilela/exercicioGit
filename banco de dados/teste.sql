@@ -11,7 +11,7 @@ CREATE TABLE `chats` (
 
 --
 -- Extraindo dados da tabela `chats`
---
+-- testeeeee
 
 INSERT INTO `chats` (`id`, `id_de`, `id_para`, `lastupdate`) VALUES
 (5, 'gabriel', 'lucas', '23-05-2019 13:39:35'),
